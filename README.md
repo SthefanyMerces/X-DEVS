@@ -1,6 +1,6 @@
 # X-DEVS
  
- [<img src="/gif-x-devs.gif" alt="">](https://sthefanymerces.github.io/X-DEVS/)
+ [<img src="/gif-x-devs.gif" alt="card x-devs">](https://sthefanymerces.github.io/X-DEVS/)
 
 ### Tecnologias Ultilizadas 
 
