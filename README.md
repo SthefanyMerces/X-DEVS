@@ -1,6 +1,6 @@
 # X-DEVS
  
- [<img src="/gif-x-devs.gif" alt="">](https://sthefanymerces.github.io/Landing-Page-GTA/)
+ [<img src="/gif-x-devs.gif" alt="">](https://sthefanymerces.github.io/X-DEVS/)
 
 ### Tecnologias Ultilizadas 
 
